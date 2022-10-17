@@ -165,12 +165,6 @@
       "logo": "flutter.png"
     },
     {
-      "title": "Formik",
-      "githubUrl": "https://github.com/jaredpalmer/formik",
-      "inviteCode": "BYTdAgs",
-      "logo": "formik.png"
-    },
-    {
       "title": "Gatsby",
       "githubUrl": "https://github.com/gatsbyjs/gatsby",
       "inviteCode": "5tdtA9k",
@@ -514,7 +508,7 @@
     {
       "title": "Redux",
       "githubUrl": "https://github.com/reactjs/redux",
-      "inviteCode": "aD26W3P",
+      "inviteCode": "reactiflux",
       "logo": "redux.svg"
     },
     {
